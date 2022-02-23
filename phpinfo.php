@@ -1,4 +1,4 @@
 <?php
-echo "Hello2";
+echo "Hello3";
 
 phpinfo(INFO_GENERAL | INFO_CONFIGURATION | INFO_MODULES);
