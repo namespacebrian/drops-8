@@ -1,3 +1,4 @@
 <?php
+echo "Hello2";
 
 phpinfo(INFO_GENERAL | INFO_CONFIGURATION | INFO_MODULES);
